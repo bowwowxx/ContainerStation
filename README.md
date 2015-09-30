@@ -1,2 +1,2 @@
 # container
-bowwow docker hub list for ContainerStation(test)
+bowwow docker hub list for ContainerStation(test02)
